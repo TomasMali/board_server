@@ -1,0 +1,9 @@
+version: '3'
+services:
+    node-board-service:
+        container_name: docker-node-board
+        restart: always
+        build: .
+        ports: 
+           - '3008:3008'
+    

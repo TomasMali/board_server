@@ -1,0 +1,25 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "Lets try this one",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "now-build": "node server.js"
+  },
+  "author": "Tomas",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.5",
+    "morgan": "^1.9.1",
+    "nodejitsu": "^100.1000.100111",
+    "nodejitsu-npm": "^0.1.2",
+    "nodemailer": "^6.4.2",
+    "request": "^2.88.0"
+  }
+}
