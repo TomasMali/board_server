@@ -19,7 +19,7 @@
     "morgan": "^1.9.1",
     "nodejitsu": "^100.1000.100111",
     "nodejitsu-npm": "^0.1.2",
-    "nodemailer": "^6.4.2",
+    "nodemailer": "^6.4.16",
     "request": "^2.88.0"
   }
 }
